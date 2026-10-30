@@ -1,0 +1,12 @@
+## Interface: 30300
+## Title: AmdirFrame
+## Author: Amdir; основа — Freebaser
+## Version: 5.0
+## Notes: Рейдові фрейми. Аддон створено на основі oUF_Freebgrid.
+## SavedVariables: AmdirFrameDB, AmdirFramePositions, FreebgridDB, Freebgridomf2
+## OptionalDeps: LibHealComm-4.0, LibResComm-1.0
+## X-oUF: AmdirFrame
+
+libs\libs.xml
+oUF\oUF.xml
+amdirframe.xml

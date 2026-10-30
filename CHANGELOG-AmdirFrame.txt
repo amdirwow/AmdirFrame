@@ -1,0 +1,58 @@
+AmdirFrame 5.0
+
+Українська локалізація, нова назва AmdirFrame, ОТ-фрейм, прилипання блоків,
+тестовий режим, виправлення дебафів і Ready Check. Аддон створено на основі
+oUF_Freebgrid; нижче збережено оригінальну історію версії 4.1 та авторство.
+
+Історія oUF_Freebgrid 4.1
+tag 4.1
+997e452b11d90b1adee960d090d960be67574133
+freebaser <ishee.heath@gmail.com>
+2010-07-01 21:09:59 -0500
+
+version 4.1
+
+
+--------------------
+
+freebaser:
+	- version up 4.1
+	- fix health error, try real unit in name tag
+	- healcomm and oUF update, add ML icon
+	- fix scaleRaid script
+	- try scaling with roster update, handle buffs in the debuffs module >.>
+	- don't use scale on the anchors
+	- add the movable options panel, version bump
+	- really fix the time to load for anchors
+	- fix movable, update healcomm
+	- update toc
+	- update oUF tags for better frequentupdates
+	- make sure movable loads before spawning
+	- fix nil colors and ns in debuffs, add option for multiple headers
+	- version bump 4.0
+	- more debuff tweaks that work correctly, hopefully
+	- actually use the raid icon element, debuff tweaks
+	- remove unwanted debuffs from the icons table
+	- strip auras and make it a separate element
+	- rewrite movable, spawn multiple headers for better groups sorting
+	- another debuff tweak
+	- debuff support instances
+	- tweak rescomm, and fix config healbar alpha
+	- option tweak
+	- lets not get crazy here
+	- option for frequent updates
+	- don't really need that anymore
+	- new debuff system, ouf update, ouf factory support
+	- disable framebg and blizzparty option, add LFD icon option and new Range syntax
+	- update oUF
+	- might as well add LFDrole
+	- low mana highlighting
+	- add reverse color support to power
+	- hide the power bar if not type mana
+	- whoops!
+	- attributes are cool
+	- override oUF threat module instead
+	- include threat module
+	- header show thyself!
+	- port to oUF 1.4
+	- healcomm update
